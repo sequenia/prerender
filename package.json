@@ -14,7 +14,8 @@
     "compression": "~1.7.3",
     "express": "~4.16.3",
     "he": "~1.1.1",
-    "valid-url": "~1.0.9"
+    "valid-url": "~1.0.9",
+    "redis": "*"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
